@@ -1,6 +1,6 @@
 ray[rllib]==1.1.0
 PyYAML==5.4.1
-paramiko==2.7.2
+paramiko==3.4.0
 scp==0.13.3
 boto3==1.17.9
 # Local prerequisites
